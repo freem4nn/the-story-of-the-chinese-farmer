@@ -67,6 +67,12 @@ body, html{
   text-transform:uppercase;
 }
 
+p{
+  font-size: 14px;
+  line-height: 2em;
+  padding: 0%;
+}
+
 .ptext .border{
   background-color:#111;
   color:#fff;
